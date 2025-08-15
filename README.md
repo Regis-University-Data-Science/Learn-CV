@@ -1,6 +1,8 @@
 # Learn-CV
 Welcome to Learn-CV, Regis University's self-sustaining learning ecosystem for Computer Vision.
 
+# This is the git-tutorial branch
+
 Prerequisites:
 - Git/GitHub Fundamentals
 - OpenCV Basics
